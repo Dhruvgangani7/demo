@@ -8,7 +8,7 @@ void main(){
         appBar: AppBar(
           title: Text("Demo flutter"),
         ),
-        body: Center(child: Text("Hello Flutter")),
+        body: Center(child: Text("Flutter")),
       ),
     ),
   ));
